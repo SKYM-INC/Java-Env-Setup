@@ -8,3 +8,7 @@ curl -s "https://get.sdkman.io" | bash
 ```bash
 sdk version
 ```
+Javaのインストール
+```bash
+sdk install java
+```
